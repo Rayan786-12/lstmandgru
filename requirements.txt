@@ -1,9 +1,6 @@
-# TensorFlow + AI/ML essentials
 tensorflow==2.13.0
 numpy==1.25.2
 scikit-learn==1.7.1
 matplotlib==3.8.0
-
-# Optional but useful for data handling
 pandas==2.1.1
-
+streamlit==1.22.0
